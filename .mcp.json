@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-moz-domain-authority-checker": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-moz-domain-authority-checker"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

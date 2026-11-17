@@ -1,0 +1,33 @@
+{
+  "name": "mcp-moz-domain-authority-checker",
+  "displayName": "Moz Domain Authority Checker",
+  "version": "1.0.0",
+  "description": "MCP server for Moz Domain Authority Checker. Bulk Moz DA, PA, and Spam Score on your own Moz API token. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-moz-domain-authority-checker",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "moz",
+    "domain authority",
+    "page authority",
+    "spam score",
+    "seo metrics",
+    "bulk da checker"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "moz",
+    "domain authority",
+    "page authority",
+    "spam score",
+    "seo metrics",
+    "bulk da checker"
+  ],
+  "mcpServers": ".mcp.json"
+}
