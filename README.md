@@ -1,6 +1,6 @@
 # Moz Domain Authority Checker MCP Server
 
-[![npm version](https://img.shields.io/npm/v/@mambalabsdev/mcp-moz-domain-authority-checker)](https://www.npmjs.com/package/@mambalabsdev/mcp-moz-domain-authority-checker) [![license](https://img.shields.io/github/license/mambalabsdev/mcp-moz-domain-authority-checker)](https://github.com/mambalabsdev/mcp-moz-domain-authority-checker/blob/main/LICENSE)
+[![MCP Registry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.modelcontextprotocol.io%2Fv0%2Fservers%3Fsearch%3Dcom.mambabuilt%252Fmcp-moz-domain-authority-checker%26limit%3D1&query=%24.servers%5B0%5D._meta%5B%22io.modelcontextprotocol.registry%2Fofficial%22%5D.status&label=mcp%20registry&color=blue)](https://registry.modelcontextprotocol.io/v0/servers?search=com.mambabuilt/mcp-moz-domain-authority-checker&limit=1) [![npm version](https://img.shields.io/npm/v/@mambalabsdev/mcp-moz-domain-authority-checker)](https://www.npmjs.com/package/@mambalabsdev/mcp-moz-domain-authority-checker) [![npm downloads](https://img.shields.io/npm/dm/@mambalabsdev/mcp-moz-domain-authority-checker)](https://www.npmjs.com/package/@mambalabsdev/mcp-moz-domain-authority-checker) [![license](https://img.shields.io/github/license/mambalabsdev/mcp-moz-domain-authority-checker)](https://github.com/mambalabsdev/mcp-moz-domain-authority-checker/blob/main/LICENSE)
 
 An MCP server for the Mamba Labs Moz Domain Authority Checker actor on Apify. Moz Domain Authority for a list of domains, on your own Moz key.
 
