@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-moz-domain-authority-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Moz Domain Authority Checker. Bulk Moz DA, PA, and Spam Score on your own Moz API token. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
